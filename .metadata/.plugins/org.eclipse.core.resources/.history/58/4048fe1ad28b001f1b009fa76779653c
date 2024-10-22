@@ -1,0 +1,19 @@
+package com.WebDriverDemos;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class D02 {
+	WebDriver driver = new ChromeDriver();
+	driver.get("https://www.google.com/");
+	driver.managa().window().maximize();
+	String actTitle , expTitle="Google";
+	actTitle = driver.getTitle();
+	if(actTitle.equals(expTitle)) {
+		System.out.println("Same title ")
+	}
+	else
+		System.out.println("wrong page");
+	
+
+}

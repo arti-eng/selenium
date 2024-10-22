@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;seleassignment.ques2threelocators&apos; to &apos;Ques2locatorId&apos;&#x0D;&#x0A;- Original project: &apos;AutomationProjectStaragile&apos;&#x0D;&#x0A;- Original element: &apos;seleassignment.ques2threelocators&apos;&#x0D;&#x0A;- Renamed element: &apos;seleassignment.Ques2locatorId&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ques2threelocators&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;seleassignment{ques2threelocators.java[ques2threelocators" matchStrategy="1" name="Ques2locatorId" qualified="false" references="true" similarDeclarations="false" stamp="1729243494989" textual="false" version="1.0"/>
+</session>
